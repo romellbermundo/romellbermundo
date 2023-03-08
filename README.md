@@ -36,7 +36,7 @@
 <p> <img src="https://github-readme-stats.vercel.app/api?username=steakncheese&theme=gotham" alt="steakncheese" />
 
 <h3 align="left">Connect with me</h3>
-<p><a href="https://github.com/steakncheese" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-565656?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/romellbermundo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://romellbermundo.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-565656?&style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<p> <a href="https://www.linkedin.com/in/romellbermundo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://romellbermundo.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-565656?&style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steakncheese&label=Profile%20views&color=0e75b6&style=flat" alt="steakncheese" /> </p>

@@ -13,5 +13,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steakncheese&" alt="steakncheese" /></p>
-<p> <img src="https://github-readme-stats.vercel.app/api?username=steakncheese&" alt="steakncheese" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steakncheese&theme=gotham" alt="steakncheese" /></p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=steakncheese&theme=gotham" alt="steakncheese" />

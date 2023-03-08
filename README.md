@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Romell Bermundo</h1>
-<h3 align="center">Big picture and Design oriented Full-stack Developer</h3>
+<h1 align="center">Hi I'm Romell Bermundo</h1>
+<h3 align="center">Full-stack Developer | GIS Analyst | 3D Cad Modeler</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steakncheese&label=Profile%20views&color=0e75b6&style=flat" alt="steakncheese" /> </p>
 
@@ -14,3 +14,4 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steakncheese&" alt="steakncheese" /></p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=steakncheese&" alt="steakncheese" />

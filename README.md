@@ -34,7 +34,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steakncheese&theme=gotham" alt="steakncheese" /></p>
-<p> <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=steakncheese&theme=gotham" alt="steakncheese" />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=steakncheese&theme=gotham" alt="steakncheese" />
 
 <h3 align="left">Connect with me</h3>
 <p> <a href="https://www.linkedin.com/in/romellbermundo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://romellbermundo.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-565656?&style=for-the-badge&logo=googlechrome&logoColor=white" /></a>

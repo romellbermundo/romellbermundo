@@ -2,7 +2,10 @@
 <h3 align="center">Full-stack Developer | GIS Analyst | 3D CAD Designer</h3>
 
 <h3 align="left">About Me</h3>
-<p>Hello! I am Romell and I love computers. Programming, data, systems, analytics, and visualization are always has been a passion of mine. These led me to careers in GIS and CAD. But I want to take things further and make more impact. This is why now I am in the technology sector as a Full-stack Developer. Now, I get to go into the details of how things work. Not only that but with programming, there are more ways to express creativity in my work and make more impact in the industry. </p>
+As a proficient Full Stack Developer, I excel in the MERN stack, creating visually appealing and functional web and mobile applications.
+My strong background in GIS and CAD showcases my adaptability and technical knowledge across multiple disciplines.
+I am committed to continuous learning, actively exploring AI workflows and staying updated with the latest web development trends.
+With excellent teamwork and communication skills, I have successfully collaborated in various roles within the tech industry.
 
 
 <h3 align="left">Projects</h3>

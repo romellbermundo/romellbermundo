@@ -2,8 +2,9 @@
 <h3 align="center">Full-stack Developer | GIS Analyst | 3D CAD Designer</h3>
 
 <h3 align="left">About Me</h3>
-<img src="https://github.com/steakncheese/steakncheese/blob/main/assets/green-materia.png?raw=true" style="height:12px" />
-As a proficient Full Stack Developer, I excel in the MERN stack, creating visually appealing and functional web and mobile applications.<br>
+
+As a proficient Full Stack Developer, I excel in the MERN stack, creating visually appealing and functional web and mobile applications.
+<br>
 <img src="https://github.com/steakncheese/steakncheese/blob/main/assets/green-materia.png?raw=true" style="height:12px" />
 My strong background in GIS and CAD showcases my adaptability and technical knowledge across multiple disciplines.
 <br>

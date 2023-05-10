@@ -15,7 +15,7 @@ As a proficient Full Stack Developer, I excel in the MERN stack, creating visual
  When time permits, I like to play chess, go for swimming, take a walk, and shoot some hoops.
 
 
-<h3 align="left">Projects</h3>
+<h3 align="left"><img src="https://github.com/steakncheese/steakncheese/blob/main/assets/projects.png?raw=true" style="height:30px;" /></h3>
 <a href="https://github.com/jaredhud/QuikDine-mobile">
 <img src="https://img.shields.io/badge/Github%20-quikdine%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
 <a href="https://github.com/huynhtk80/project_2_potluckers">
@@ -23,7 +23,7 @@ As a proficient Full Stack Developer, I excel in the MERN stack, creating visual
 <a href="https://www.potlucker.ca">
 <img src="https://img.shields.io/badge/Website%20-potlucker%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/></a>
 
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left"><img src="https://github.com/steakncheese/steakncheese/blob/main/assets/languages.png?raw=true" style="height:30px;" /></h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React Native-0088CC?style=flat-square&logo=react&logoColor=white" />
@@ -46,7 +46,7 @@ As a proficient Full Stack Developer, I excel in the MERN stack, creating visual
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steakncheese&theme=gotham" alt="steakncheese" /></p>
 <p> <img src="https://github-readme-stats.vercel.app/api?username=steakncheese&theme=gotham" alt="steakncheese" />
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left"><img src="https://github.com/steakncheese/steakncheese/blob/main/assets/contactme.png?raw=true" style="height:30px;" /></h3>
 <p> <a href="https://www.linkedin.com/in/romellbermundo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://romellbermundo.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-565656?&style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 

@@ -5,13 +5,13 @@
 
 As a proficient Full Stack Developer, I excel in the MERN stack, creating visually appealing and functional web and mobile applications.
 <br>
-<img src="https://github.com/steakncheese/steakncheese/blob/main/assets/green-materia.png?raw=true" style="height:12px;" />
+<img src="https://github.com/steakncheese/steakncheese/blob/main/assets/blue-materia.png?raw=true" style="height:12px;" />
  My strong background in GIS and CAD showcases my adaptability and technical knowledge across multiple disciplines.
 <br>
 <img src="https://github.com/steakncheese/steakncheese/blob/main/assets/green-materia.png?raw=true" style="height:12px" />
  I am gitCommitted to continuous learning, actively exploring AI workflows and staying updated with the latest web development trends.
 <br>
-<img src="https://github.com/steakncheese/steakncheese/blob/main/assets/green-materia.png?raw=true" style="height:12px" />
+<img src="https://github.com/steakncheese/steakncheese/blob/main/assets/yellow-materia.png?raw=true" style="height:12px" />
  When time permits, I like to play chess, go for swimming, take a walk, and shoot some hoops.
 
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Romell Bermundo</h1>
 <h3 align="center">Full-stack Developer | GIS Analyst | 3D CAD Designer</h3>
 
-<h3 align="left">About Me</h3>
+<h3 align="left"><img src="https://github.com/steakncheese/steakncheese/blob/main/assets/aboutme.png?raw=true" style="height:30px;" /></h3>
 
 As a proficient Full Stack Developer, I excel in the MERN stack, creating visually appealing and functional web and mobile applications.
 <br>

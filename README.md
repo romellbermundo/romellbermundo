@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/steakncheese/steakncheese/blob/main/assets/name.png?raw=true" style="height:15px;" /></h1>
+<h1 align="center"><img src="https://github.com/steakncheese/steakncheese/blob/main/assets/name.png?raw=true" style="height:20px;" /></h1>
 <h3 align="center">Full-stack Developer | GIS Analyst | 3D CAD Designer</h3>
 
 <h3 align="left"><img src="https://github.com/steakncheese/steakncheese/blob/main/assets/aboutme.png?raw=true" style="height:15px;" /></h3>

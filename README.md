@@ -1,8 +1,8 @@
 <h1 align="center"><img src="https://github.com/steakncheese/steakncheese/blob/main/assets/name.png?raw=true" style="height:20px;" /></h1>
 <h3 align="center">Full-stack Developer | GIS Analyst | 3D CAD Designer</h3>
 
+<!-- About Me -->
 <h3 align="left"><img src="https://github.com/steakncheese/steakncheese/blob/main/assets/aboutme.png?raw=true" style="height:15px;" /></h3>
-
 As a proficient Full Stack Developer, I excel in the MERN stack, creating visually appealing and functional web and mobile applications.
 <br>
 <img src="https://github.com/steakncheese/steakncheese/blob/main/assets/blue-materia.png?raw=true" style="height:12px;" />
@@ -14,7 +14,7 @@ As a proficient Full Stack Developer, I excel in the MERN stack, creating visual
 <img src="https://github.com/steakncheese/steakncheese/blob/main/assets/yellow-materia.png?raw=true" style="height:12px" />
  When time permits, I like to play chess, go for swimming, take a walk, and shoot some hoops.
 
-
+<!-- Projects -->
 <h3 align="left"><img src="https://github.com/steakncheese/steakncheese/blob/main/assets/projects.png?raw=true" style="height:15px;" /></h3>
 <a href="https://github.com/jaredhud/QuikDine-mobile">
 <img src="https://img.shields.io/badge/Github%20-quikdine%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a> 
@@ -25,6 +25,7 @@ As a proficient Full Stack Developer, I excel in the MERN stack, creating visual
 <a href="https://websitehugo-test.pages.dev">
 <img src="https://img.shields.io/badge/%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/></a>
 
+<!-- Languages and Tools -->
 <h3 align="left"><img src="https://github.com/steakncheese/steakncheese/blob/main/assets/languages.png?raw=true" style="height:15px;" /></h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -43,11 +44,11 @@ As a proficient Full Stack Developer, I excel in the MERN stack, creating visual
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-006400?style=flat-square&logo=Android Studio&logoColor=white" />
 </p>
 
-
-
+<!-- GitHub Stats -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steakncheese&theme=gotham" alt="steakncheese" /></p>
 <p> <img src="https://github-readme-stats-7bj688jbs-steakncheese.vercel.app/api?username=steakncheese&theme=gotham" alt="steakncheese" />
 
+<!-- Contact Me -->
 <h3 align="left"><img src="https://github.com/steakncheese/steakncheese/blob/main/assets/contactme.png?raw=true" style="height:15px;" /></h3>
 <p> <a href="https://www.linkedin.com/in/romellbermundo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://romellbermundo.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-565656?&style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>

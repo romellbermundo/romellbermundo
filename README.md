@@ -42,6 +42,11 @@ As a proficient Full Stack Developer, I excel in the MERN stack, creating visual
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-006400?style=flat-square&logo=Android Studio&logoColor=white" />
 </p>
+<!-- Extra Skills -->
+<h3 align="left"><img src="https://github.com/steakncheese/steakncheese/blob/main/assets/extraskills.png?raw=true" style="height:15px;" /></h3>
+<p>
+  <img alt="Photoshop" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+</p>
 
 
 <!-- GitHub Stats -->

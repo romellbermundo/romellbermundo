@@ -51,7 +51,7 @@ As a proficient Full Stack Developer, I excel in the MERN stack, creating visual
   <img alt="Photoshop" src="https://img.shields.io/badge/-Blender-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Photoshop" src="https://img.shields.io/badge/-Illustrator-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Photoshop" src="https://img.shields.io/badge/-3JS-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Photoshop" src="https://img.shields.io/badge/-A-frame-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Photoshop" src="https://img.shields.io/badge/-Aframe-45b8d8?style=flat-square&logo=react&logoColor=white" />
 </p>
 
 

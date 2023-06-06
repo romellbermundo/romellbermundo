@@ -46,12 +46,13 @@ As a proficient Full Stack Developer, I excel in the MERN stack, creating visual
 <h3 align="left"><img src="https://github.com/steakncheese/steakncheese/blob/main/assets/extraskills.png?raw=true" style="height:15px;" /></h3>
 <p>
   <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Photoshop" src="https://img.shields.io/badge/-Filmora-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Photoshop" src="https://img.shields.io/badge/-AutoCAD-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Photoshop" src="https://img.shields.io/badge/-Blender-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Photoshop" src="https://img.shields.io/badge/-Illustrator-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Photoshop" src="https://img.shields.io/badge/-3JS-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Photoshop" src="https://img.shields.io/badge/-Aframe-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Filmora" src="https://img.shields.io/badge/-Filmora-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="AutoCAD" src="https://img.shields.io/badge/-AutoCAD-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Blender" src="https://img.shields.io/badge/-Blender-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="3JS" src="https://img.shields.io/badge/-3JS-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="AFrame" src="https://img.shields.io/badge/-AFrame-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="ArcGIS" src="https://img.shields.io/badge/-ArcGIS-45b8d8?style=flat-square&logo=react&logoColor=white" />
 </p>
 
 

@@ -22,6 +22,8 @@ As a proficient Full Stack Developer, I excel in the MERN stack, creating visual
 <img src="https://img.shields.io/badge/Github%20-potlucker%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a> 
 <a href="https://www.potlucker.ca">
 <img src="https://img.shields.io/badge/Website%20-potlucker%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/></a>
+<a href="https://websitehugo-test.pages.dev">
+<img src="https://img.shields.io/badge/%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/></a>
 
 <h3 align="left"><img src="https://github.com/steakncheese/steakncheese/blob/main/assets/languages.png?raw=true" style="height:15px;" /></h3>
 <p>

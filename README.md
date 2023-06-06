@@ -45,7 +45,13 @@ As a proficient Full Stack Developer, I excel in the MERN stack, creating visual
 <!-- Extra Skills -->
 <h3 align="left"><img src="https://github.com/steakncheese/steakncheese/blob/main/assets/extraskills.png?raw=true" style="height:15px;" /></h3>
 <p>
-  <img alt="Photoshop" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Photoshop" src="https://img.shields.io/badge/-Filmora-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Photoshop" src="https://img.shields.io/badge/-AutoCAD-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Photoshop" src="https://img.shields.io/badge/-Blender-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Photoshop" src="https://img.shields.io/badge/-Illustrator-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Photoshop" src="https://img.shields.io/badge/-3JS-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Photoshop" src="https://img.shields.io/badge/-A-frame-45b8d8?style=flat-square&logo=react&logoColor=white" />
 </p>
 
 

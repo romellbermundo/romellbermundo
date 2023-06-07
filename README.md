@@ -43,7 +43,7 @@ As a proficient Full Stack Developer, I excel in the MERN stack, creating visual
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-006400?style=flat-square&logo=Android Studio&logoColor=white" />
 </p>
 <!-- Extra Skills -->
-<h3 align="left"><img src="https://github.com/steakncheese/steakncheese/blob/main/assets/extraskills.png?raw=true" style="height:15px;" /></h3>
+<!-- <h3 align="left"><img src="https://github.com/steakncheese/steakncheese/blob/main/assets/extraskills.png?raw=true" style="height:15px;" /></h3>
 <p>
   <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Filmora" src="https://img.shields.io/badge/-Filmora-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -53,7 +53,7 @@ As a proficient Full Stack Developer, I excel in the MERN stack, creating visual
   <img alt="3JS" src="https://img.shields.io/badge/-3JS-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="AFrame" src="https://img.shields.io/badge/-AFrame-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="ArcGIS" src="https://img.shields.io/badge/-ArcGIS-45b8d8?style=flat-square&logo=react&logoColor=white" />
-</p>
+</p> -->
 
 
 <!-- GitHub Stats -->

@@ -59,7 +59,7 @@ As a proficient Full Stack Developer, I excel in the MERN stack, creating visual
   <img alt="ArcGIS" src="https://img.shields.io/badge/-ArcGIS-0573ba?style=flat-square&logo=arcgis&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-0070f3?style=flat-square&logo=vercel&logoColor=white" />
   <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
-  <img alt="Filmora" src="https://img.shields.io/badge/-Filmora-50e3c2?style=flat-square&logo=&logoColor=white" />
+  <!-- <img alt="Filmora" src="https://img.shields.io/badge/-Filmora-50e3c2?style=flat-square&logo=&logoColor=white" /> -->
 </p>
 
 

@@ -29,6 +29,8 @@ As a proficient Full Stack Developer, I excel in the MERN stack, creating visual
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React Native-0088CC?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?style=flat-square&logo=Trello&logoColor=white" />
   <img alt="Expo" src="https://img.shields.io/badge/-Expo-5849BE?style=flat-square&logo=Expo&logoColor=white" />
@@ -50,9 +52,10 @@ As a proficient Full Stack Developer, I excel in the MERN stack, creating visual
   <img alt="Blender" src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
   <img alt="AutoCAD" src="https://img.shields.io/badge/-AutoCAD-ca2323?style=flat-square&logo=autodesk&logoColor=white" />
   <img alt="AFrame" src="https://img.shields.io/badge/-AFrame-eb2860?style=flat-square&logo=aframe&logoColor=white" />
+  <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
   <img alt="ArcGIS" src="https://img.shields.io/badge/-ArcGIS-0573ba?style=flat-square&logo=arcgis&logoColor=white" />
   <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
-  <img alt="Filmora" src="https://img.shields.io/badge/-Filmora-50e3c2?style=flat-square&logo=airplayvideo&logoColor=white" />
+  <img alt="Filmora" src="https://img.shields.io/badge/-Filmora-50e3c2?style=flat-square&logo=&logoColor=white" />
 </p>
 
 

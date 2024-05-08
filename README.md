@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://github.com/steakncheese/steakncheese/blob/main/assets/name.png?raw=true" style="height:20px;" /></h1>
-<h3 align="center">Full Stack Developer | GIS Analyst | 3D CAD Designer</h3>
+<h3 align="center">Full Stack Developer | GIS Analyst | CAD Designer</h3>
 <!-- About Me -->
 <h3 align="left"><img src="https://github.com/steakncheese/steakncheese/blob/main/assets/aboutme.png?raw=true" style="height:15px;" /></h3>
 
@@ -64,7 +64,6 @@ As a proficient Full Stack Developer, I excel in the MERN stack, creating visual
 
 
 <!-- GitHub Stats -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=steakncheese&theme=gotham" alt="steakncheese" /></p>
 <p> <img src="https://github-readme-stats-7bj688jbs-steakncheese.vercel.app/api?username=steakncheese&theme=gotham" alt="steakncheese" />
 <!-- Contact Me -->
 <h3 align="left"><img src="https://github.com/steakncheese/steakncheese/blob/main/assets/contactme.png?raw=true" style="height:15px;" /></h3>

@@ -23,7 +23,7 @@ As a proficient Full Stack Developer, I excel in the MERN stack, creating visual
 <a href="https://www.potlucker.ca">
 <img src="https://img.shields.io/badge/Website%20-potlucker%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/></a>
 <!-- Languages and Tools -->
-<h3 align="left"><img src="https://github.com/steakncheese/steakncheese/blob/main/assets/languages.png?raw=true" style="height:15px;" /></h3>
+<h3 align="left"><img src="https://github.com/romellbermundo/romellbermundo/blob/main/assets/languages.png?raw=true" style="height:15px;" /></h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React Native-0088CC?style=flat-square&logo=react&logoColor=white" />
@@ -44,7 +44,7 @@ As a proficient Full Stack Developer, I excel in the MERN stack, creating visual
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-006400?style=flat-square&logo=Android Studio&logoColor=white" />
 </p>
 <!-- Extra Skills -->
-<h3 align="left"><img src="https://github.com/steakncheese/steakncheese/blob/main/assets/extraskills.png?raw=true" style="height:15px;" /></h3>
+<h3 align="left"><img src="https://github.com/romellbermundo/romellbermundo/blob/main/assets/extraskills.png?raw=true" style="height:15px;" /></h3>
 <p>
   <img alt="3JS" src="https://img.shields.io/badge/-3JS-efda4d?style=flat-square&logo=threedotjs&logoColor=black" />
   <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
@@ -64,10 +64,10 @@ As a proficient Full Stack Developer, I excel in the MERN stack, creating visual
 
 
 <!-- GitHub Stats -->
-<p> <img src="https://github-readme-stats-7bj688jbs-steakncheese.vercel.app/api?username=steakncheese&theme=gotham" alt="steakncheese" />
+<p> <img src="https://github-readme-stats-7bj688jbs-romellbermundo.vercel.app/api?username=romellbermundo&theme=gotham" alt="romellbermundo" />
 <!-- Contact Me -->
-<h3 align="left"><img src="https://github.com/steakncheese/steakncheese/blob/main/assets/contactme.png?raw=true" style="height:15px;" /></h3>
+<h3 align="left"><img src="https://github.com/romellbermundo/romellbermundo/blob/main/assets/contactme.png?raw=true" style="height:15px;" /></h3>
 <p> <a href="https://www.linkedin.com/in/romellbermundo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://romellbermundo.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-565656?&style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=steakncheese&label=Profile%20views&color=0e75b6&style=flat" alt="steakncheese" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=romellbermundo&label=Profile%20views&color=0e75b6&style=flat" alt="romellbermundo" /> </p>

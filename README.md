@@ -15,7 +15,7 @@ As a proficient Full Stack Developer, I excel in the MERN stack, creating visual
  When time permits, I like to play chess, go for swimming, take a walk, and shoot some hoops.
 
 <!-- Projects -->
-<h3 align="left"><img src="https://github.com/steakncheese/steakncheese/blob/main/assets/projects.png?raw=true" style="height:15px;" /></h3>
+<h3 align="left"><img src="https://github.com/romellbermundo/romellbermundo/blob/main/assets/projects.png?raw=true" style="height:15px;" /></h3>
 <a href="https://github.com/jaredhud/QuikDine-mobile">
 <img src="https://img.shields.io/badge/Github%20-quikdine%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a> 
 <a href="https://github.com/huynhtk80/project_2_potluckers">

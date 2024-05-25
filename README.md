@@ -64,7 +64,7 @@ As a proficient Full Stack Developer, I excel in the MERN stack, creating visual
 
 
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romellbermundo&theme=radical)
+
 <!-- Contact Me -->
 <h3 align="left"><img src="https://github.com/romellbermundo/romellbermundo/blob/main/assets/contactme.png?raw=true" style="height:15px;" /></h3>
 <p> <a href="https://www.linkedin.com/in/romellbermundo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://romellbermundo.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-565656?&style=for-the-badge&logo=googlechrome&logoColor=white" /></a>

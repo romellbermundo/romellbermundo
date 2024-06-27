@@ -3,10 +3,10 @@
 <!-- About Me -->
 <h3 align="left"><img src="https://github.com/steakncheese/steakncheese/blob/main/assets/aboutme.png?raw=true" style="height:15px;" /></h3>
 
-As a proficient Full Stack Developer, I excel in the MERN stack, creating visually appealing and functional web and mobile applications.
+As a proficient Full Stack Developer, I excel in the MERN stack and Python, creating visually appealing and functional web and mobile applications.
 <br>
 <img src="https://github.com/steakncheese/steakncheese/blob/main/assets/blue-materia.png?raw=true" style="height:12px;" />
- My strong background in GIS and CAD showcases my adaptability and technical knowledge across multiple disciplines.
+ My strong background in GIS Spatial Data Management and 3D Modeling showcases my adaptability and technical knowledge across multiple disciplines.
 <br>
 <img src="https://github.com/steakncheese/steakncheese/blob/main/assets/green-materia.png?raw=true" style="height:12px" />
  I am gitCommitted to continuous learning, actively exploring AI and staying updated with the latest web development trends.

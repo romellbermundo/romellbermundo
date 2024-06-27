@@ -20,8 +20,8 @@ As a proficient Full Stack Developer, I excel in the MERN stack, creating visual
 <img src="https://img.shields.io/badge/Github%20-quikdine%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a> 
 <a href="https://github.com/huynhtk80/project_2_potluckers">
 <img src="https://img.shields.io/badge/Github%20-potlucker%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a> 
-<a href="https://www.potlucker.ca">
-<img src="https://img.shields.io/badge/Website%20-potlucker%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/></a>
+<a href="https://www.youtube.com/watch?v=kbyUfBJmxLE">
+<img src="https://img.shields.io/badge/Youtube%20-quikdine%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/></a>
 <!-- Languages and Tools -->
 <h3 align="left"><img src="https://github.com/romellbermundo/romellbermundo/blob/main/assets/languages.png?raw=true" style="height:15px;" /></h3>
 <p>

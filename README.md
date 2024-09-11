@@ -3,15 +3,15 @@
 <!-- About Me -->
 <h3 align="left"><img src="https://github.com/steakncheese/steakncheese/blob/main/assets/aboutme.png?raw=true" style="height:15px;" /></h3>
 
-As a proficient Full Stack GIS Developer, I excel in the Python, JavaScript, and React creating visually appealing and functional web and mobile applications.
+As a proficient Full Stack GIS Developer, I excel in the Python, JavaScript, React, and ArcGIS creating web and mobile applications.
 <br>
 <img src="https://github.com/steakncheese/steakncheese/blob/main/assets/blue-materia.png?raw=true" style="height:12px;" />
  My strong background in GIS and 3D Modeling showcases my adaptability and technical knowledge across multiple disciplines.
 <br>
 <img src="https://github.com/steakncheese/steakncheese/blob/main/assets/green-materia.png?raw=true" style="height:12px" />
  I am gitCommitted to continuous learning, actively exploring AI, scripts, automation and keeping up with tech trends.
-<img src="https://github.com/steakncheese/steakncheese/blob/main/assets/yellow-materia.png?raw=true" style="height:12px" />
- When time permits, I like to play chess, go for biking, learning French, and shoot some hoops.
+<br>
+ <img src="https://github.com/steakncheese/steakncheese/blob/main/assets/yellow-materia.png?raw=true" style="height:12px" />  When time permits, I like to play chess, go for biking, learning French, and shoot some hoops.
 
 <!-- Projects -->
 <h3 align="left"><img src="https://github.com/romellbermundo/romellbermundo/blob/main/assets/projects.png?raw=true" style="height:15px;" /></h3>

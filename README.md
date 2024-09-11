@@ -1,18 +1,18 @@
 <h1 align="center"><img src="https://github.com/steakncheese/steakncheese/blob/main/assets/name.png?raw=true" style="height:20px;" /></h1>
-<h3 align="center">Full Stack Developer | GIS Developer | 3D Design</h3>
+<h3 align="center">Full Stack GIS Developer</h3>
 <!-- About Me -->
 <h3 align="left"><img src="https://github.com/steakncheese/steakncheese/blob/main/assets/aboutme.png?raw=true" style="height:15px;" /></h3>
 
-As a proficient Full Stack Developer, I excel in the MERN stack and Python, creating visually appealing and functional web and mobile applications.
+As a proficient Full Stack GIS Developer, I excel in the Python, JavaScript, and React creating visually appealing and functional web and mobile applications.
 <br>
 <img src="https://github.com/steakncheese/steakncheese/blob/main/assets/blue-materia.png?raw=true" style="height:12px;" />
  My strong background in GIS and 3D Modeling showcases my adaptability and technical knowledge across multiple disciplines.
 <br>
 <img src="https://github.com/steakncheese/steakncheese/blob/main/assets/green-materia.png?raw=true" style="height:12px" />
- I am gitCommitted to continuous learning, actively exploring AI and staying updated with the latest web development trends.
+ I am gitCommitted to continuous learning, actively exploring AI, scripts, automation and staying updated with the latest web development trends.
 <br>
 <img src="https://github.com/steakncheese/steakncheese/blob/main/assets/yellow-materia.png?raw=true" style="height:12px" />
- When time permits, I like to play chess, go for swimming, take a walk, and shoot some hoops.
+ When time permits, I like to play chess, go for biking, learning French, and shoot some hoops.
 
 <!-- Projects -->
 <h3 align="left"><img src="https://github.com/romellbermundo/romellbermundo/blob/main/assets/projects.png?raw=true" style="height:15px;" /></h3>

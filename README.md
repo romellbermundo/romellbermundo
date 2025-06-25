@@ -6,10 +6,10 @@
 As a proficient Full Stack GIS Developer, I excel in the Python, JavaScript, React, and ArcGIS creating web and mobile applications.
 <br>
 <img src="https://github.com/steakncheese/steakncheese/blob/main/assets/blue-materia.png?raw=true" style="height:12px;" />
- My strong background in GIS and 3D Modeling showcases my adaptability and technical knowledge across multiple disciplines.
+ My strong background in GIS and 3D Modeling showcases my technical knowledge and adaptability across multiple technical disciplines.
 <br>
 <img src="https://github.com/steakncheese/steakncheese/blob/main/assets/green-materia.png?raw=true" style="height:12px" />
- I am gitCommitted to continuous learning, actively exploring AI, scripts, automation and keeping up with tech trends.
+ I am gitCommitted to actively augmenting AI, creating scripts, work automation and experimenting with new tech trends.
 <br>
  <img src="https://github.com/steakncheese/steakncheese/blob/main/assets/yellow-materia.png?raw=true" style="height:12px" />  When time permits, I like to play chess, go for biking, learning French, and shoot some hoops.
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Romell Bermundo</h1>
 <h3 align="center">GIS Developer | Python | FME | ArcGIS</h3>
 <!-- About Me -->
-<h4 align="left">About</h4>
+<h3 align="left">About</h3>
 
 Building geospatial applications, automation workflows, and mapping solutions for infrastructure and asset management.
 
@@ -17,7 +17,7 @@ With a background in both GIS and full-stack development, I enjoy building tools
 Outside of tech, you'll usually find me playing chess, cycling, learning French, or shooting hoops.
 
 <!-- Projects -->
-<h4 align="left">Projects</h4>
+<h3 align="left">Projects</h3>
 <a href="https://github.com/jaredhud/QuikDine-mobile">
 <img src="https://img.shields.io/badge/Github%20-quikdine%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a> 
 <a href="https://github.com/huynhtk80/project_2_potluckers">
@@ -25,7 +25,7 @@ Outside of tech, you'll usually find me playing chess, cycling, learning French,
 <a href="https://www.youtube.com/watch?v=kbyUfBJmxLE">
 <img src="https://img.shields.io/badge/Youtube%20-quikdine%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/></a>
 <!-- Languages and Tools -->
-<h4 align="left">Language and Tools</h4>
+<h3 align="left">Language and Tools</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React Native-0088CC?style=flat-square&logo=react&logoColor=white" />
@@ -46,7 +46,7 @@ Outside of tech, you'll usually find me playing chess, cycling, learning French,
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-006400?style=flat-square&logo=AndroidStudio&logoColor=white" />
 </p>
 <!-- Extra Skills -->
-<h4 align="left">Extra Skills</h4>
+<h3 align="left">Extra Skills</h3>
 <p>
   <img alt="3JS" src="https://img.shields.io/badge/-3JS-efda4d?style=flat-square&logo=threedotjs&logoColor=black" />
   <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
@@ -68,7 +68,7 @@ Outside of tech, you'll usually find me playing chess, cycling, learning French,
 <!-- GitHub Stats -->
 
 <!-- Contact Me -->
-<h4 align="left">Contact Me</h4>
+<h3 align="left">Contact Me</h3>
 <p> <a href="https://www.linkedin.com/in/romellbermundo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://romellbermundo.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-565656?&style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 

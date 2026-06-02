@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://github.com/steakncheese/steakncheese/blob/main/assets/name.png?raw=true" style="height:20px;" /></h1>
 <h3 align="center">GIS Developer | Python | FME | ArcGIS</h3>
 <!-- About Me -->
-<h3 align="left"><img src="https://github.com/steakncheese/steakncheese/blob/main/assets/aboutme.png?raw=true" style="height:15px;" /></h3>
+### About Me
 
 Building geospatial applications, automation workflows, and mapping solutions for infrastructure and asset management.
 

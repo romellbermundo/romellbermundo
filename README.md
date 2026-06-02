@@ -1,20 +1,23 @@
-<h1 align="center">Hi! I'm Romell Bermundo</h1>
-<h3 align="center">GIS Developer | Python | FME | ArcGIS</h3>
+<h1 align="left">Hi! I'm Romell Bermundo👋</h1>
+<h3 align="left">GIS Developer | Geospatial Automation | Full-Stack Solutions</h3>
 <!-- About Me -->
 <h3 align="left">About</h3>
 
-Building geospatial applications, automation workflows, and mapping solutions for infrastructure and asset management.
+I build geospatial applications, automate complex workflows, and develop data-driven solutions that help organizations make better decisions and operate more efficiently.
 
-🗺️ GIS & Web Mapping<br>
-⚙️ Python (ArcPy), FME, SQL, JavaScript<br>
-📊 Spatial Data Analysis & Visualization<br>
-🚀 Workflow Automation & Data Integration<br>
+My experience spans enterprise GIS, infrastructure asset management, spatial data engineering, and software development. I've contributed to large-scale energy projects at TC Energy and Enbridge, creating mapping products, automation tools, and data integration workflows that improved data quality, reduced manual effort, and streamlined business processes.
 
-I've contributed to large-scale energy infrastructure projects at TC Energy and Enbridge, developing GIS solutions that improve data quality, streamline workflows, and support informed decision-making.
+Core Expertise
 
-With a background in both GIS and full-stack development, I enjoy building tools that make spatial data more accessible, efficient, and actionable. I'm always exploring new technologies, experimenting with AI-assisted development, and finding ways to automate repetitive work.
+🗺️ Enterprise GIS & Web Mapping
+⚙️ Python (ArcPy), FME, SQL, JavaScript
+📊 Spatial Analysis, Data Engineering & Visualization
+🚀 Workflow Automation & System Integration
+🌐 Full-Stack Development & GIS Applications
 
-Outside of tech, you'll usually find me playing chess, cycling, learning French, or shooting hoops.
+I enjoy turning complex spatial data challenges into practical solutions and collaborating with teams to deliver tools that create measurable value. I'm continuously exploring new technologies, AI-assisted development, and innovative ways to improve workflows through automation.
+
+Outside of work, you'll find me playing chess, cycling, learning French, or shooting hoops.
 
 <!-- Projects -->
 <h3 align="left">Projects</h3>

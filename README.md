@@ -1,13 +1,11 @@
 <h1 align="left">Hi! I'm Romell Bermundo👋</h1>
 <h3 align="left">GIS Developer | Geospatial Automation | Full-Stack Solutions</h3>
 <!-- About Me -->
-<h3 align="left">About</h3>
+<h3 align="left">👨‍💻About</h3>
 
 I build geospatial applications, automate complex workflows, and develop data-driven solutions that help organizations make better decisions and operate more efficiently.
 
 My experience spans enterprise GIS, infrastructure asset management, spatial data engineering, and software development. I've contributed to large-scale energy projects at TC Energy and Enbridge, creating mapping products, automation tools, and data integration workflows that improved data quality, reduced manual effort, and streamlined business processes.
-
-Core Expertise
 
 🗺️ Enterprise GIS & Web Mapping<br>
 ⚙️ Python (ArcPy), FME, SQL, JavaScript<br>
@@ -20,7 +18,7 @@ I enjoy turning complex spatial data challenges into practical solutions and col
 Outside of work, you'll find me playing chess, cycling, learning French, or shooting hoops.
 
 <!-- Projects -->
-<h3 align="left">Projects</h3>
+<h3 align="left">🚀Projects</h3>
 <a href="https://github.com/jaredhud/QuikDine-mobile">
 <img src="https://img.shields.io/badge/Github%20-quikdine%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a> 
 <a href="https://github.com/huynhtk80/project_2_potluckers">
@@ -28,7 +26,7 @@ Outside of work, you'll find me playing chess, cycling, learning French, or shoo
 <a href="https://www.youtube.com/watch?v=kbyUfBJmxLE">
 <img src="https://img.shields.io/badge/Youtube%20-quikdine%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/></a>
 <!-- Languages and Tools -->
-<h3 align="left">Language and Tools</h3>
+<h3 align="left">🛠️Language and Tools</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React Native-0088CC?style=flat-square&logo=react&logoColor=white" />
@@ -49,7 +47,7 @@ Outside of work, you'll find me playing chess, cycling, learning French, or shoo
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-006400?style=flat-square&logo=AndroidStudio&logoColor=white" />
 </p>
 <!-- Extra Skills -->
-<h3 align="left">Extra Skills</h3>
+<h3 align="left">📊Extra Skills</h3>
 <p>
   <img alt="3JS" src="https://img.shields.io/badge/-3JS-efda4d?style=flat-square&logo=threedotjs&logoColor=black" />
   <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
@@ -71,7 +69,7 @@ Outside of work, you'll find me playing chess, cycling, learning French, or shoo
 <!-- GitHub Stats -->
 
 <!-- Contact Me -->
-<h3 align="left">Contact Me</h3>
+<h3 align="left">📬Contact Me</h3>
 <p> <a href="https://www.linkedin.com/in/romellbermundo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://romellbermundo.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-565656?&style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 

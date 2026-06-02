@@ -10,9 +10,11 @@ Building geospatial applications, automation workflows, and mapping solutions fo
 📊 Spatial Data Analysis & Visualization<br>
 🚀 Workflow Automation & Data Integration<br>
 
-I've contributed to large-scale energy infrastructure projects at TC Energy and Enbridge, creating GIS solutions that improve data quality, streamline workflows, and support informed decision-making.
+I've contributed to large-scale energy infrastructure projects at TC Energy and Enbridge, developing GIS solutions that improve data quality, streamline workflows, and support informed decision-making.
 
-I enjoy building tools that make spatial data more accessible, efficient, and actionable.
+With a background in both GIS and full-stack development, I enjoy building tools that make spatial data more accessible, efficient, and actionable. I'm always exploring new technologies, experimenting with AI-assisted development, and finding ways to automate repetitive work.
+
+Outside of tech, you'll usually find me playing chess, cycling, learning French, or shooting hoops.
 
 <!-- Projects -->
 <h3 align="left"><img src="https://github.com/romellbermundo/romellbermundo/blob/main/assets/projects.png?raw=true" style="height:15px;" /></h3>

@@ -9,11 +9,11 @@ My experience spans enterprise GIS, infrastructure asset management, spatial dat
 
 Core Expertise
 
-🗺️ Enterprise GIS & Web Mapping
-⚙️ Python (ArcPy), FME, SQL, JavaScript
-📊 Spatial Analysis, Data Engineering & Visualization
-🚀 Workflow Automation & System Integration
-🌐 Full-Stack Development & GIS Applications
+🗺️ Enterprise GIS & Web Mapping<br>
+⚙️ Python (ArcPy), FME, SQL, JavaScript<br>
+📊 Spatial Analysis, Data Engineering & Visualization<br>
+🚀 Workflow Automation & System Integration<br>
+🌐 Full-Stack Development & GIS Applications<br>
 
 I enjoy turning complex spatial data challenges into practical solutions and collaborating with teams to deliver tools that create measurable value. I'm continuously exploring new technologies, AI-assisted development, and innovative ways to improve workflows through automation.
 

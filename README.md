@@ -5,10 +5,10 @@
 
 Building geospatial applications, automation workflows, and mapping solutions for infrastructure and asset management.
 <br>
-🗺️ GIS & Web Mapping
-⚙️ Python (ArcPy), FME, SQL, JavaScript
-📊 Spatial Data Analysis & Visualization
-🚀 Workflow Automation & Data Integration
+🗺️ GIS & Web Mapping<br>
+⚙️ Python (ArcPy), FME, SQL, JavaScript<br>
+📊 Spatial Data Analysis & Visualization<br>
+🚀 Workflow Automation & Data Integration<br>
 
 I've contributed to large-scale energy infrastructure projects at TC Energy and Enbridge, creating GIS solutions that improve data quality, streamline workflows, and support informed decision-making.
 

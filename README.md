@@ -1,21 +1,42 @@
-<h1 align="left">Hi! I'm Romell Bermundo👋</h1>
-<h3 align="left">GIS Developer | Geospatial Automation | Full-Stack Solutions</h3>
-<!-- About Me -->
-<h3 align="left">👨‍💻About</h3>
+<h1 align="left">Hi! I'm Romell Bermundo 👋</h1>
 
-I build geospatial applications, automate complex workflows, and develop data-driven solutions that help organizations make better decisions and operate more efficiently.
+<h3 align="left">
+GIS Automation Engineer | GIS Developer | Python • ArcPy • FME • Spatial ETL
+</h3>
 
-My experience spans enterprise GIS, infrastructure asset management, spatial data engineering, and software development. I've contributed to large-scale energy projects at TC Energy and Enbridge, creating mapping products, automation tools, and data integration workflows that improved data quality, reduced manual effort, and streamlined business processes.
+<p align="left">
+Building software that transforms business problems into automated GIS solutions.
+</p>
 
-🗺️ Enterprise GIS & Web Mapping<br>
-⚙️ Python (ArcPy), FME, SQL, JavaScript<br>
-📊 Spatial Analysis, Data Engineering & Visualization<br>
-🚀 Workflow Automation & System Integration<br>
-🌐 Full-Stack Development & GIS Applications<br>
+<h3 align="left">👨‍💻 About Me</h3>
 
-I enjoy turning complex spatial data challenges into practical solutions and collaborating with teams to deliver tools that create measurable value. I'm continuously exploring new technologies, AI-assisted development, and innovative ways to improve workflows through automation.
+I build geospatial automation solutions that eliminate manual work, improve data quality, and help organizations deliver projects faster.
 
-Outside of work, you'll find me playing chess, cycling, learning French, or shooting hoops.
+My passion is translating complex business requirements into scalable GIS applications and automation workflows. I specialize in Python, ArcPy, FME, SQL, and enterprise GIS technologies to streamline operations, standardize data, and solve real-world business problems.
+
+One of my proudest projects was developing a permit boundary automation application that transformed a critical business bottleneck—reducing a week-long manual GIS workflow to about one hour while standardizing deliverables and accelerating project readiness.
+
+<h3 align="left">💡 What I Build</h3>
+
+🗺️ Enterprise GIS & Telecommunications Solutions<br>
+⚙️ Python, ArcPy, FME & Spatial ETL Automation<br>
+📊 Data Engineering, QA/QC & Business Rule Implementation<br>
+🚀 Workflow Optimization & Process Automation<br>
+🌐 Full-Stack & GIS Applications (React, Node.js, MongoDB)<br>
+
+<h3 align="left">🤝 Beyond the Code</h3>
+
+I enjoy mentoring teammates, documenting technical solutions, and creating tools that make complex workflows easier for everyone. I believe great software isn't just functional—it should empower the people who use it.
+
+I'm continually exploring AI-assisted development, cloud technologies, enterprise GIS, and modern software engineering practices to build smarter and more scalable solutions.
+
+<h3 align="left">🌱 Outside of Work</h3>
+
+♟️ Chess<br>
+🏀 Basketball<br>
+🚴 Cycling<br>
+🇫🇷 Learning French<br>
+💻 Exploring emerging technologies and AI
 
 <!-- Projects -->
 <h3 align="left">🚀Projects</h3>

@@ -10,11 +10,11 @@ Building software that transforms business problems into automated GIS solutions
 
 <h3 align="left">👨‍💻 About Me</h3>
 
-I build geospatial automation solutions that eliminate manual work, improve data quality, and help organizations deliver projects faster.
+I build GIS automation and geospatial systems that eliminate manual work, improve data quality, and simplify complex workflows.
 
-My passion is translating complex business requirements into scalable GIS applications and automation workflows. I specialize in Python, ArcPy, FME, SQL, and enterprise GIS technologies to streamline operations, standardize data, and solve real-world business problems.
+My work combines Python, ArcPy, FME, SQL, and enterprise GIS to turn business requirements into reliable, repeatable solutions.
 
-One of my proudest projects was developing a permit boundary automation application that transformed a critical business bottleneck—reducing a week-long manual GIS workflow to about one hour while standardizing deliverables and accelerating project readiness.
+A recent example: I designed and built a permit workflow automation that reduced a week-long GIS process to about one hour, while standardizing outputs and improving project readiness.
 
 <h3 align="left">💡 What I Build</h3>
 

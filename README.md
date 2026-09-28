@@ -33,7 +33,7 @@ I'm continually exploring AI-assisted development, cloud technologies, enterpris
 <h3 align="left">🌱 Outside of Work</h3>
 
 ♟️ Chess<br>
-🏀 Basketball<br>
+🏀 Basketball and Pickleball<br>
 🚴 Cycling<br>
 🇫🇷 Learning French<br>
 💻 Exploring emerging technologies and AI

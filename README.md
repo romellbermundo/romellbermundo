@@ -40,9 +40,9 @@ I'm continually exploring AI-assisted development, cloud technologies, enterpris
 
 <!-- Projects -->
 <h3 align="left">🚀Projects</h3>
-<a href="https://github.com/jaredhud/QuikDine-mobile">
+<a href="https://github.com/romellbermundo/QuikDine-Mobile">
 <img src="https://img.shields.io/badge/Github%20-quikdine%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a> 
-<a href="https://github.com/huynhtk80/project_2_potluckers">
+<a href="https://github.com/romellbermundo/Potluckers">
 <img src="https://img.shields.io/badge/Github%20-potlucker%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a> 
 <a href="https://www.youtube.com/watch?v=kbyUfBJmxLE">
 <img src="https://img.shields.io/badge/Youtube%20-quikdine%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/></a>

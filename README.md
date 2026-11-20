@@ -62,7 +62,7 @@ I'm currently exploring cloud technologies, AI-assisted development, geospatial 
 💻 Exploring emerging technologies, AI, and automation
 
 <h3 align="left">🌐 Professional Portfolio</h3>
-
+*GIS Automation • Spatial ETL • Featured Projects*
 <a href="https://romellbermundo.com">romellbermundo.com</a>
 
 <!-- Projects -->

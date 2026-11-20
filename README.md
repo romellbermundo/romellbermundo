@@ -18,23 +18,23 @@ One of my recent projects involved enhancing a permit-processing automation plat
 
 <h3 align="left">⚙️ Technical Expertise</h3>
 
-<b>Enterprise GIS & Data Management</b><br>
+<b>🏢 Enterprise GIS & Data Management</b><br>
 Platforms: ArcGIS Pro, ArcGIS Enterprise, ArcGIS Online, 3GIS<br>
 Skills: Geodatabases, QA/QC, Data Governance, Production Deployments, Data Migration<br><br>
 
-<b>GIS Automation & Spatial ETL</b><br>
+<b>🔄 GIS Automation & Spatial ETL</b><br>
 Tools: Python (ArcPy), FME, ModelBuilder, Regex<br>
 Skills: Workflow Automation, Business Rule Implementation, Schema Transformation, Data Validation<br><br>
 
-<b>Open-Source GIS & Integration</b><br>
+<b>🌍 Open-Source GIS & Integration</b><br>
 Tools: QGIS, GeoPandas, Fiona, Pandas<br>
 Skills: Spatial Analysis, Data Migration, System Integration, Geospatial Processing, Validation<br><br>
 
-<b>Development & Engineering Workflows</b><br>
+<b>💻 Development & Engineering Workflows</b><br>
 Tools: SQL, VBA, JavaScript, REST APIs, Excel Automation<br>
 Skills: Process Automation, Custom Applications, Reporting Workflows, Technical Integration<br><br>
 
-<b>CAD & Engineering Data</b><br>
+<b>📐 CAD & Engineering Data</b><br>
 Tools: CADWorx, AutoCAD, FME<br>
 Skills: CAD-to-GIS Conversion, Engineering Drawings, Infrastructure Data Management
 

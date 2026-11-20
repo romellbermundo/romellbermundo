@@ -1,42 +1,69 @@
 <h1 align="left">Hi! I'm Romell Bermundo 👋</h1>
 
 <h3 align="left">
-GIS Automation Engineer | GIS Developer | Python • ArcPy • FME • Spatial ETL
+GIS Developer | GIS Automation | Spatial ETL & Enterprise GIS
 </h3>
 
 <p align="left">
-Building software that transforms business problems into automated GIS solutions.
+Building systems that automate geospatial workflows, improve data quality, and transform business processes into scalable GIS solutions.
 </p>
 
 <h3 align="left">👨‍💻 About Me</h3>
 
-I build GIS automation and geospatial systems that eliminate manual work, improve data quality, and simplify complex workflows.
+I specialize in GIS automation, Spatial ETL, enterprise GIS, and geospatial data migration.
 
-My work combines Python, ArcPy, FME, SQL, and enterprise GIS to turn business requirements into reliable, repeatable solutions.
+Using Python, ArcPy, FME, ArcGIS Enterprise, QGIS, SQL, and VBA, I build solutions that reduce manual effort, improve data quality, and make GIS operations more reliable and repeatable.
 
-A recent example: I designed and built a permit workflow automation that reduced a week-long GIS process to about one hour, while standardizing outputs and improving project readiness.
+One of my recent projects involved enhancing a permit-processing automation platform that reduced turnaround time from approximately one week to one hour while supporting the processing of over 1,224 permit datasets. Along the way, I've developed migration frameworks, QA/QC systems, training programs, validation standards, and business-rule-driven workflows that support enterprise GIS operations.
 
-<h3 align="left">💡 What I Build</h3>
+<h3 align="left">⚙️ Technical Expertise</h3>
 
-🗺️ Enterprise GIS & Telecommunications Solutions<br>
-⚙️ Python, ArcPy, FME & Spatial ETL Automation<br>
-📊 Data Engineering, QA/QC & Business Rule Implementation<br>
-🚀 Workflow Optimization & Process Automation<br>
-🌐 Full-Stack & GIS Applications (React, Node.js, MongoDB)<br>
+<b>Enterprise GIS & Data Management</b><br>
+Platforms: ArcGIS Pro, ArcGIS Enterprise, ArcGIS Online, 3GIS<br>
+Skills: Geodatabases, QA/QC, Data Governance, Production Deployments, Data Migration<br><br>
+
+<b>GIS Automation & Spatial ETL</b><br>
+Tools: Python (ArcPy), FME, ModelBuilder, Regex<br>
+Skills: Workflow Automation, Business Rule Implementation, Schema Transformation, Data Validation<br><br>
+
+<b>Open-Source GIS & Integration</b><br>
+Tools: QGIS, GeoPandas, Fiona, Pandas<br>
+Skills: Spatial Analysis, Data Migration, System Integration, Geospatial Processing, Validation<br><br>
+
+<b>Development & Engineering Workflows</b><br>
+Tools: SQL, VBA, JavaScript, REST APIs, Excel Automation<br>
+Skills: Process Automation, Custom Applications, Reporting Workflows, Technical Integration<br><br>
+
+<b>CAD & Engineering Data</b><br>
+Tools: CADWorx, AutoCAD, FME<br>
+Skills: CAD-to-GIS Conversion, Engineering Drawings, Infrastructure Data Management
+
+<h3 align="left">🚀 What I Build</h3>
+
+🗺️ Enterprise GIS Solutions<br>
+⚙️ GIS Automation & Spatial ETL Workflows<br>
+📊 Data Migration, QA/QC & Validation Frameworks<br>
+🔄 Business Rule Automation & Process Standardization<br>
+🚀 Internal Tools & GIS Utilities<br>
+🌐 Software & Geospatial Applications
 
 <h3 align="left">🤝 Beyond the Code</h3>
 
-I enjoy mentoring teammates, documenting technical solutions, and creating tools that make complex workflows easier for everyone. I believe great software isn't just functional—it should empower the people who use it.
+I enjoy documenting complex workflows, mentoring teammates, developing training materials, and turning undocumented processes into scalable systems. I believe great technical solutions should not only solve problems but also make future work easier for the people who depend on them.
 
-I'm continually exploring AI-assisted development, cloud technologies, enterprise GIS, and modern software engineering practices to build smarter and more scalable solutions.
+I'm currently exploring cloud technologies, AI-assisted development, geospatial data engineering, and modern software engineering practices that can further scale GIS operations.
 
 <h3 align="left">🌱 Outside of Work</h3>
 
 ♟️ Chess<br>
-🏀 Basketball and Pickleball<br>
+🏀 Basketball & Pickleball<br>
 🚴 Cycling<br>
 🇫🇷 Learning French<br>
-💻 Exploring emerging technologies and AI
+💻 Exploring emerging technologies, AI, and automation
+
+<h3 align="left">🌐 Professional Portfolio</h3>
+
+<a href="https://romellbermundo.com">romellbermundo.com</a>
 
 <!-- Projects -->
 <h3 align="left">🚀Projects</h3>
